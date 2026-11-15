@@ -1,8 +1,8 @@
 {
-  "version": "1.50.1",
-  "url": "https://github.com/leyem24-spec/dwelltryos-updates/releases/download/desktop-1.50.1/DwelltryOS-1.50.1.locked",
-  "sha256": "c956681d3cdc671519d6a66b3c6e4ba823345db4531cc61439fec835387707c7",
-  "size": 133318569,
-  "sig": "aMnwHAxPLifqQ9-pMe1gtq-2uVfP8MDq8fsacO0bS4Spr6EpJJDXKn8dJNUxeQDZtP75thFy_jQhccntvScYBA",
-  "publishedAt": "2026-11-15T20:53:20.812Z"
+  "version": "1.50.2",
+  "url": "https://github.com/leyem24-spec/dwelltryos-updates/releases/download/desktop-1.50.2/DwelltryOS-1.50.2.locked",
+  "sha256": "3d86157e6cd972b4ef6f5b63c200ffd8838ff3aabbed35ed1cc4afe90d7fb0ed",
+  "size": 133320579,
+  "sig": "pOSv-gifVBlyc-3eGtXlB8exyYMqSFYu_-4tIKyP817do884PnmP9FFHduqLhm_-Zt7d9hAEBPquiaLfbOfXCg",
+  "publishedAt": "2026-11-15T23:40:29.434Z"
 }
